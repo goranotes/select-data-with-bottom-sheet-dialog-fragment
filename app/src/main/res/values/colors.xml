@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6096B4</color>
+    <color name="colorPrimaryDark">#93BFCF</color>
+    <color name="colorAccent">#BDCDD6</color>
+
+    <color name="black">#FF000000</color>
+    <color name="river_bed">#454F5B</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF3B30</color>
+    <color name="gray">#DDDDDD</color>
+</resources>
